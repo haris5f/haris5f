@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @haris5f
+- 👋 Hi, I’m Haris
 - 👀 I’m interested in data engineering, data science,python and sql
 - 🌱 I’m currently learning machine learning and etl tools
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me haris.5f1@gmail.com
 
 <!---
