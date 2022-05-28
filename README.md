@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haris
 - 👀 I’m interested in data engineering, data science and machine learning
-- 🌱 I’m currently learning deep learning and etl tools
+- 🌱 I’m currently learning ETL tools
 - 📫 How to reach me haris.5f1@gmail.com
 
 <!---
